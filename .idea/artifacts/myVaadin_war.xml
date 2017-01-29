@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="myVaadin:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="vaadin-archetype-application-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="myVaadin:war exploded" />
+    </root>
+  </artifact>
+</component>
